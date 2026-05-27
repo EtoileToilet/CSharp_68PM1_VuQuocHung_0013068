@@ -8,3 +8,6 @@ D:\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csp
 D:\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySinhVien.form_main.resources
+D:\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySinhVien.QuanLyLopHoc.resources
+D:\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySinhVien.QuanLySinhVien.resources
