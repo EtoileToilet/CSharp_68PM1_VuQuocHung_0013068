@@ -166,6 +166,7 @@
             this.btn_update.TabIndex = 21;
             this.btn_update.Text = "Sửa";
             this.btn_update.UseVisualStyleBackColor = false;
+            this.btn_update.Click += new System.EventHandler(this.btn_update_Click);
             // 
             // btn_add
             // 

@@ -77,5 +77,34 @@ namespace QuanLySinhVien
                 comboBox2.SelectedValue = row.Cells["MaLop"].Value.ToString();
             }
         }
+
+        private void btn_update_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                String id = textBox1.Text;
+
+                SinhVien sv = db.SinhViens.FirstOrDefault(x => x.MaSV == id);
+
+                if (sv != null)
+                {
+                    sv.HoTen = textBox2.Text;
+                    sv.GioiTinh = comboBox1.Text;
+                    sv.NgaySinh = dateTimePicker1.Value;
+                    sv.MaLop = comboBox2.SelectedValue.ToString();
+                    db.SubmitChanges();
+                    MessageBox.Show("Cap nhat thanh cong!");
+                    LoadData();
+                }
+                else
+                {
+                    MessageBox.Show("Khong tim thay sinh vien!");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }

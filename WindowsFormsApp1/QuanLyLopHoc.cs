@@ -18,5 +18,7 @@ namespace QuanLySinhVien
         {
             InitializeComponent();
         }
+
+        
     }
 }
