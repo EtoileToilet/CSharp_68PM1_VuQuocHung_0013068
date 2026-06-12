@@ -106,5 +106,28 @@ namespace QuanLySinhVien
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void btn_del_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show(
+                "Ban co chac chan muon xoa sinh vien nay?",
+                "Xac nhan",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question);
+
+            if (result == DialogResult.Yes)
+            {
+                String id = textBox1.Text;
+                SinhVien sv = db.SinhViens.FirstOrDefault(x => x.MaSV == id);
+
+                if (sv != null)
+                {
+                    db.SinhViens.DeleteOnSubmit(sv);
+                    db.SubmitChanges();
+                    MessageBox.Show("Xoa thanh cong!");
+                    LoadData();
+                }
+            }
+        }
     }
 }

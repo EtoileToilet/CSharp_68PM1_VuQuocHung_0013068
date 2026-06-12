@@ -154,6 +154,7 @@
             this.btn_del.TabIndex = 22;
             this.btn_del.Text = "Xóa";
             this.btn_del.UseVisualStyleBackColor = false;
+            this.btn_del.Click += new System.EventHandler(this.btn_del_Click);
             // 
             // btn_update
             // 
