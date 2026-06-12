@@ -136,6 +136,7 @@
             this.btn_del.TabIndex = 29;
             this.btn_del.Text = "Xóa";
             this.btn_del.UseVisualStyleBackColor = false;
+            this.btn_del.Click += new System.EventHandler(this.btn_del_Click);
             // 
             // btn_update
             // 
@@ -148,6 +149,7 @@
             this.btn_update.TabIndex = 28;
             this.btn_update.Text = "Sửa";
             this.btn_update.UseVisualStyleBackColor = false;
+            this.btn_update.Click += new System.EventHandler(this.btn_update_Click);
             // 
             // btn_add
             // 
@@ -160,6 +162,7 @@
             this.btn_add.TabIndex = 27;
             this.btn_add.Text = "Thêm";
             this.btn_add.UseVisualStyleBackColor = false;
+            this.btn_add.Click += new System.EventHandler(this.btn_add_Click);
             // 
             // btn_search
             // 
@@ -172,6 +175,7 @@
             this.btn_search.TabIndex = 26;
             this.btn_search.Text = "Tìm";
             this.btn_search.UseVisualStyleBackColor = false;
+            this.btn_search.Click += new System.EventHandler(this.btn_search_Click);
             // 
             // textBox5
             // 
@@ -199,6 +203,7 @@
             this.dataGridView1.RowTemplate.Height = 28;
             this.dataGridView1.Size = new System.Drawing.Size(743, 574);
             this.dataGridView1.TabIndex = 23;
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // label2
             // 
@@ -312,6 +317,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "QuanLyLopHoc";
             this.Size = new System.Drawing.Size(1205, 785);
+            this.Load += new System.EventHandler(this.QuanLyLopHoc_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
