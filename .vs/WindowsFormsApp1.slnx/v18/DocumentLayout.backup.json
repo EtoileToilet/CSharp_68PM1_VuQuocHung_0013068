@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\source\\repos\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\source\\repos\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\source\\repos\\windowsformsapp1\\windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\source\\repos\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\source\\repos\\windowsformsapp1\\windowsformsapp1\\dataclasses1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\source\\repos\\windowsformsapp1\\windowsformsapp1\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
       "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\source\\repos\\windowsformsapp1\\windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23C5D020-0A32-46FE-92AA-FAC1612A34AB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -54,36 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T14:58:40.483Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataClasses1.designer.cs",
-              "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataClasses1.designer.cs",
-              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.designer.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\DataClasses1.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T14:45:34.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DataClasses1.dbml",
               "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.dbml",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\DataClasses1.dbml",
@@ -95,19 +70,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "QuanLyLopHoc.cs [Design]",
               "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLyLopHoc.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\QuanLyLopHoc.cs",
-              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLyLopHoc.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\QuanLyLopHoc.cs [Design]",
+              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLyLopHoc.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\QuanLyLopHoc.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T17:39:55.041Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
@@ -120,25 +95,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "QuanLySinhVien.cs",
               "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLySinhVien.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\QuanLySinhVien.cs",
-              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLySinhVien.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\QuanLySinhVien.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA4AAAAZAAAAAAAAAA==",
+              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLySinhVien.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\QuanLySinhVien.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwD0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T17:39:21.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "QuanLyLopHoc.cs",
               "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLyLopHoc.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\QuanLyLopHoc.cs",
-              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLyLopHoc.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\QuanLyLopHoc.cs",
+              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLyLopHoc.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\QuanLyLopHoc.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T17:39:20.041Z",
@@ -146,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
@@ -159,14 +134,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QuanLySinhVien.cs [Design]",
               "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLySinhVien.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\QuanLySinhVien.cs",
-              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLySinhVien.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\QuanLySinhVien.cs [Design]*",
+              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\QuanLySinhVien.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\QuanLySinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T17:39:52.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataClasses1.designer.cs",
+              "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataClasses1.designer.cs",
+              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\DataClasses1.designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DataClasses1.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:45:34.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:58:40.483Z",
               "EditorCaption": " [Design]"
             },
             {

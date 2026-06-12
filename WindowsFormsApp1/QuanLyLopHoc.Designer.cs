@@ -112,6 +112,7 @@
             this.btn_QLSV.TabIndex = 31;
             this.btn_QLSV.Text = "Xem danh sách sinh viên";
             this.btn_QLSV.UseVisualStyleBackColor = false;
+            this.btn_QLSV.Click += new System.EventHandler(this.btn_QLSV_Click);
             // 
             // btn_clear
             // 

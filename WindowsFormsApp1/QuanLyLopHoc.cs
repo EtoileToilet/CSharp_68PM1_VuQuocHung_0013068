@@ -181,5 +181,17 @@ namespace QuanLySinhVien
                 textBox4.Text = row.Cells["GhiChu"].Value.ToString();
             }
         }
+
+        private void btn_QLSV_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(textBox2.Text))
+            {
+                MessageBox.Show("Vui long chon lop hoc!");
+                return;
+            }
+            string maLop = textBox2.Text;
+            var dssv = db.SinhViens.Where(x => x.MaLop == maLop).ToList();
+            dataGridView1.DataSource = dssv;
+        }
     }
 }
