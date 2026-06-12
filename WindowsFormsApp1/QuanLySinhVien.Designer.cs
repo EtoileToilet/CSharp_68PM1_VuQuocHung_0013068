@@ -74,6 +74,7 @@
             this.btn_last.TabIndex = 30;
             this.btn_last.Text = ">>";
             this.btn_last.UseVisualStyleBackColor = true;
+            this.btn_last.Click += new System.EventHandler(this.btn_last_Click);
             // 
             // btn_next
             // 
@@ -83,6 +84,7 @@
             this.btn_next.TabIndex = 29;
             this.btn_next.Text = ">";
             this.btn_next.UseVisualStyleBackColor = true;
+            this.btn_next.Click += new System.EventHandler(this.btn_next_Click);
             // 
             // btn_back
             // 
@@ -92,6 +94,7 @@
             this.btn_back.TabIndex = 28;
             this.btn_back.Text = "<";
             this.btn_back.UseVisualStyleBackColor = true;
+            this.btn_back.Click += new System.EventHandler(this.btn_back_Click);
             // 
             // btn_first
             // 
@@ -101,6 +104,7 @@
             this.btn_first.TabIndex = 27;
             this.btn_first.Text = "<<";
             this.btn_first.UseVisualStyleBackColor = true;
+            this.btn_first.Click += new System.EventHandler(this.btn_first_Click);
             // 
             // textBox3
             // 
@@ -130,6 +134,7 @@
             this.btn_search.TabIndex = 24;
             this.btn_search.Text = "Tìm";
             this.btn_search.UseVisualStyleBackColor = false;
+            this.btn_search.Click += new System.EventHandler(this.btn_search_Click);
             // 
             // btn_clear
             // 
