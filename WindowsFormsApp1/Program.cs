@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuanLySinhVien;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QuanLySinhVien.form_main());
+            Application.Run(new form_main());
         }
     }
 }

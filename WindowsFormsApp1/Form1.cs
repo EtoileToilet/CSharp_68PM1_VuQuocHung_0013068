@@ -34,6 +34,7 @@ namespace WindowsFormsApp1
             if (username == "0013068@st.huce.edu.vn" && password == "0013068")
             {
                 MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                new QuanLySinhVien.form_main();
             }
             else
             {
